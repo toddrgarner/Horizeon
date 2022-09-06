@@ -38,13 +38,22 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-Live 
+## Deployed Live URL:
 
- https://toddrgarner.github.io/Horizeon-Refactor/
+https://toddrgarner.github.io/Horizeon-Refactor/
 
-Github LInk
+## Github Repository URL:
 
 https://github.com/toddrgarner/Horizeon-Refactor
+
+
+## Portfolio GIF:
+
+https://ezgif.com-gif-maker.gif
+
+
+
+
 
 
 <!-- 
@@ -54,7 +63,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines -->
 
 
-
+https://github.com/ffjt07/horisean-code-rework/blob/main/horiseon-social-solution-services.gif
 
 <!-- Acceptance Criteria
 GIVEN a webpage meets accessibility standards
