@@ -21,7 +21,7 @@ https://github.com/toddrgarner/Horizeon-Refactor
 
 ## Portfolio GIF:
 
-https://github.com/ffjt07/horisean-code-rework/blob/main/horiseon-social-solution-services.gif
+
 
 
 
