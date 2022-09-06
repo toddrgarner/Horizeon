@@ -21,6 +21,7 @@ https://github.com/toddrgarner/Horizeon-Refactor
 
 ## Portfolio GIF:
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/110719370/188758925-6a81e8be-ef49-496a-b6f9-fe5e514d1e20.gif)
 
 
 
